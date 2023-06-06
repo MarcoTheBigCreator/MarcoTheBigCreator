@@ -1,5 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -16,14 +14,12 @@
        alt="snake" /></a>
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">More about me</h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently collaborating on **<a href="https://gekocards.com/" rel="nofollow">Gekocards</a>**
@@ -38,7 +34,8 @@
 
 <!--Intro end-->
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -64,6 +61,8 @@
 </p>        
 <!--- stats (end) -->
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
