@@ -72,5 +72,5 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,angular,tailwind,postman,figma,firebase,mysql,git,github&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,angular,tailwind,postman,figma,mysql,git,github&perline=14" />
 </p>
