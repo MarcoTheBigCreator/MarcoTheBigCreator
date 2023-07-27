@@ -24,11 +24,11 @@
 <!--Intro start-->
 - 🔭 I’m currently collaborating on **<a href="https://gekocards.com/" rel="nofollow">Gekocards</a>**
 
-- 🌱 I’m currently learning **React and Next JS**
+- 🌱 I’m currently learning **<a href="https://react.dev/" rel="nofollow">React</a>** and **<a href="https://nextjs.org/" rel="nofollow">Next JS</a>**
 
-- ☁️ I've keen interest in backend. So,I'm learning **Node JS**
+- ☁️ I've keen interest in backend. So,I'm learning **<a href="https://nodejs.org/en" rel="nofollow">Node JS</a>**
 
-- 💬 Ask me about **Python, JavaScript, TypeScript**
+- 💬 Ask me about **<a href="https://www.python.org/" rel="nofollow">Python</a>**,**<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> JavaScript</a>**,**<a href="https://www.typescriptlang.org/" rel="nofollow"> TypeScript</a>**
 
 - 📫 Feel free to reach me out **marcotbcreator@gmail.com**
 
