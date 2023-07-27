@@ -3,7 +3,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Marco Rodriguez</h1></summary>
-    A Software Engineering student at the Polytechnic University of Durango. I like to be constantly learning new technologies. Always looking for personal and professional development being proactive, focused on developing quality projects.
+    A Software Engineering student at the <a href="http://www.unipolidgo.edu.mx/" rel="nofollow">Polytechnic University of Durango.</a> I like to be constantly learning new technologies. Always looking for personal and professional development being proactive, focused on developing quality projects.
   </ul>
 </div>
 
