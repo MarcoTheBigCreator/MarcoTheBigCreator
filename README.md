@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **<a href="https://react.dev/" rel="nofollow">React</a>** and **<a href="https://nextjs.org/" rel="nofollow">Next JS</a>**
 
-- ☁️ I've keen interest in backend. So,I'm learning **<a href="https://nodejs.org/en" rel="nofollow">Node JS</a>**
+- ☁️ I've keen interest in backend. So,I will be learning **<a href="https://nodejs.org/en" rel="nofollow">Node JS</a>**
 
 - 💬 Ask me about **<a href="https://www.python.org/" rel="nofollow">Python</a>**,**<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> JavaScript</a>**,**<a href="https://www.typescriptlang.org/" rel="nofollow"> TypeScript</a>**
 
