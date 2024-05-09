@@ -23,7 +23,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Collaborated in the development of the **<a href="https://gekocards.com/" rel="nofollow">Gekocards</a>** and **<a href="https://talentum.club/" rel="nofollow">Talentum</a>** pages.
+- 🔭 Collaborated in the development of the <!-- **<a href="https://gekocards.com/" rel="nofollow">Gekocards</a>** and --> **<a href="https://talentum.club/" rel="nofollow">Talentum</a>** page.
 
 - 🌱 Currently mastering my knowledge of  **<a href="https://react.dev/" rel="nofollow">React</a>** and **<a href="https://nextjs.org/" rel="nofollow">Next JS</a>**.
 
