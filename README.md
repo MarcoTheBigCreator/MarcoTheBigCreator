@@ -2,8 +2,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Marco Rodriguez</h1></summary>
-    A Software Engineering student at the <a href="http://www.unipolidgo.edu.mx/" rel="nofollow">Polytechnic University of Durango.</a> I like to be constantly learning new technologies. Always looking for personal and professional development being proactive, focused on developing quality projects.
+    <summary><h1 style="display: inline-block">Hi 👋🏼, I'm Marco Rodriguez</h1></summary>
+    A Software Engineering graduated from the <a href="http://www.unipolidgo.edu.mx/" rel="nofollow">Polytechnic University of Durango</a>. Tech enthusiast committed to growth, skilled in front-end development, project leadership, and agile methodologies. A problem solver with clear communication and quick adaptability.
   </ul>
 </div>
 
@@ -23,15 +23,15 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently collaborating on **<a href="https://gekocards.com/" rel="nofollow">Gekocards</a>**
+- 🔭 Collaborated in the development of the **<a href="https://gekocards.com/" rel="nofollow">Gekocards</a>** and **<a href="https://talentum.club/" rel="nofollow">Talentum</a>** pages.
 
-- 🌱 I’m currently learning **<a href="https://react.dev/" rel="nofollow">React</a>** and **<a href="https://nextjs.org/" rel="nofollow">Next JS</a>**
+- 🌱 Currently mastering my knowledge of  **<a href="https://react.dev/" rel="nofollow">React</a>** and **<a href="https://nextjs.org/" rel="nofollow">Next JS</a>**.
 
-- ☁️ I've keen interest in backend. So, I will be learning **<a href="https://nodejs.org/en" rel="nofollow">Node JS</a>**
+- ☁️ Keen interest in backend. So, I will probably learn **<a href="https://nodejs.org/en" rel="nofollow">Node JS</a>**.
 
-- 💬 Ask me about **<a href="https://www.python.org/" rel="nofollow">Python</a>**,**<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> JavaScript</a>**,**<a href="https://www.typescriptlang.org/" rel="nofollow"> TypeScript</a>**
+- 💬 You can ask me about **<a href="https://www.python.org/" rel="nofollow">Python</a>** though. <!-- ,**<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> JavaScript</a>**,**<a href="https://www.typescriptlang.org/" rel="nofollow"> TypeScript</a>** -->
 
-- 📫 Feel free to reach me out **marcotbcreator@gmail.com**
+- 📫 Feel free to reach me out **marcotbcreator@gmail.com**.
 
 <!--Intro end-->
 
@@ -68,10 +68,10 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Know</h2></summary>
+    <summary><h2 style="display: inline-block">Technological Familiarity</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,angular,tailwind,postman,figma,mysql,git,github&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nodejs,nextjs,vercel,angular,tailwind,sass,postman,figma,notion,mysql,mongodb,prisma,git,github,postgresql,supabase,firebase,docker,express,jest,redux,wordpress&perline=14" />
 </p>
