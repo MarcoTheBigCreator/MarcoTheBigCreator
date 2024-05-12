@@ -73,5 +73,5 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nodejs,nextjs,vercel,angular,tailwind,sass,postman,figma,notion,mysql,mongodb,prisma,git,github,postgresql,supabase,firebase,docker,express,jest,redux,wordpress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nodejs,nextjs,vercel,angular,tailwind,sass,postman,figma,heroku,mysql,mongodb,prisma,git,github,postgresql,supabase,firebase,docker,express,jest,redux,wordpress&perline=14" />
 </p>
