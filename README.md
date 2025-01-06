@@ -3,7 +3,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋🏼, I'm Marco Rodriguez</h1></summary>
-    A Software Engineering graduated from the <a href="http://www.unipolidgo.edu.mx/" rel="nofollow">Polytechnic University of Durango</a>. Tech enthusiast committed to growth, skilled in front-end development, project leadership, and agile methodologies. A problem solver with clear communication and quick adaptability.
+    Associate Software Engineer at <a href="https://www.oliverwyman.com/index.html" rel="nofollow">Oliver Wyman</a>
   </ul>
 </div>
 
@@ -23,15 +23,17 @@
 </div>
 
 <!--Intro start-->
+- 🌱 Graduated from the **<a href="http://www.unipolidgo.edu.mx/" rel="nofollow">Polytechnic University of Durango</a>**.
+  
 - 🔭 Collaborated in the development of the <!-- **<a href="https://gekocards.com/" rel="nofollow">Gekocards</a>** and --> **<a href="https://talentum.club/" rel="nofollow">Talentum</a>** page.
 
-- 🌱 Currently mastering my knowledge of  **<a href="https://react.dev/" rel="nofollow">React</a>** and **<a href="https://nextjs.org/" rel="nofollow">Next JS</a>**.
+- 📚 Currently mastering my knowledge of  **<a href="https://react.dev/" rel="nofollow">React</a>**, **<a href="https://nextjs.org/" rel="nofollow">Next JS</a>** and **<a href="https://angular.dev/" rel="nofollow">Angular</a>**.
 
-- ☁️ Keen interest in backend. So, I will probably learn **<a href="https://nodejs.org/en" rel="nofollow">Node JS</a>**.
+- ☁️ Keen interest in backend. So, I will probably learn **<a href="https://nodejs.org/en" rel="nofollow">Node JS</a>** and **<a href="https://nestjs.com/" rel="nofollow">Nest</a>**.
 
 - 💬 You can ask me about **<a href="https://www.python.org/" rel="nofollow">Python</a>** though. <!-- ,**<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> JavaScript</a>**,**<a href="https://www.typescriptlang.org/" rel="nofollow"> TypeScript</a>** -->
 
-- 📫 Feel free to reach me out **marcotbcreator@gmail.com**.
+- 📫 Feel free to reach me out **marcotbcreator@gmail.com** or **marco.rodriguez@oliverwyman.com**.
 
 <!--Intro end-->
 
